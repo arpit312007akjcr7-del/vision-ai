@@ -1,0 +1,6 @@
+{
+  "name": "VisionAI Core - Computer Vision & Visual Intelligence Platform",
+  "description": "Enterprise computer vision & visual intelligence platform for industrial defect detection, retail audit, medical imaging assist, and deep multimodal inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
